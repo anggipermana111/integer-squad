@@ -1,3 +1,5 @@
-# IntegerSquad123
+# IntegerSquad
+
+#### By Anggi Permana
 
 ![Avenger](avenger.jpg)
